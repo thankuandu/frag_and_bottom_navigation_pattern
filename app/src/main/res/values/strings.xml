@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EquipmentManage_YC</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_maintain">维修</string>
+    <string name="title_query">查询</string>
+    <string name="title_out">出库</string>
+    <string name="title_in">入库</string>
+    <string name="plz_wait">请稍后</string>
+    <string name="first_frag_name">入库</string>
+    <string name="second_frag_name">出库</string>
+    <string name="third_frag_name">查询</string>
+    <string name="fourth_frag_name">维修</string>
+</resources>
